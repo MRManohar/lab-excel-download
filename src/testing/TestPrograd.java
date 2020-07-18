@@ -1,5 +1,5 @@
 package testing;
-/* uncomment the below lines to test your code
+
 import org.junit.Test;
 
 import model.Prograd;
@@ -41,4 +41,3 @@ public class TestPrograd {
 		}
 	}
 }
-*/
